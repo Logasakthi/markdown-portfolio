@@ -1,3 +1,3 @@
 Replace this with a list of your favorite things.ordered
-books *toys *games
+-toys
 _includes/04-lists.md
